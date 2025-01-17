@@ -1,4 +1,4 @@
-# Crazy HTML just to play | [DEMO](http://html.systems/)
+# Crazy HTML just to play
 
 ## It is not a framework
 

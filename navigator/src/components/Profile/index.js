@@ -7,7 +7,7 @@ class Module extends Component {
             <div className="Profile">
                 <div></div>
                 <div></div>
-                <strong>Salbatore Munuera</strong>
+                <strong>Salbatore</strong>
                 <i>@salbatore</i>
                 <p>I work in Alicunde Systems and I love programming.</p>
                 <ol>

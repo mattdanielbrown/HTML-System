@@ -7,7 +7,7 @@ class Module extends Component {
             item:[
                 {
 					selfie:'/components/Comments/images/1.jpg',
-					author:'Salbatore Munuera',
+					author:'Salbatore',
 					comment:"Espero que te parece insteresante este respositorio, lo he creado con amor y gratuitamente.",
 					date:"23 minutes",
 					item:[
@@ -19,7 +19,7 @@ class Module extends Component {
 						},{
 							selfie:'/components/Comments/images/1.jpg',
 
-							author:'Salbatore Munuera',
+							author:'Salbatore',
 							comment:"Tienes razón Bill, soy un iluso.",
 							date:"18 minutes"
 						}

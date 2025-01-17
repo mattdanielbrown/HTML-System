@@ -33,7 +33,7 @@ class Module extends Component {
                         
                     </p>
                 <hr/>
-                <blockquote>Este es un texto dentro de un <b>blockquote</b>. <cite>Salbatore Munuera</cite> <sub>CTO Alicunde</sub></blockquote>
+                <blockquote>Este es un texto dentro de un <b>blockquote</b>. <cite>Salbatore</cite> <sub>CTO Alicunde</sub></blockquote>
                 <hr/>
                 <h2>Listados</h2>
                 <p>No nos volvamos locos, esto es una lista.</p>

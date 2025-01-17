@@ -10,7 +10,7 @@ class Module extends Component {
                     <u>Eiusmod tempor?</u>
                     <strong>Duis aute irure dolor in repderit in voltate velit</strong>
                     <span>
-                        <b>Salbatore Munuera</b>
+                        <b>Salbatore</b>
                         <i>CTO</i>
                     </span>
                     <img alt="Test" src="/components/Slogan/images/signature.svg"/>   

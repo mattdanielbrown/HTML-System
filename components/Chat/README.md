@@ -1,4 +1,5 @@
 ### [Chat](components/Chat)
+
 #### HTML + CSS
 
 Component built to demonstrate how unnecessary complex HTML structures are to create a simple chat. Chat with purely semantic and objectless HTML to meet aesthetic needs.
@@ -15,7 +16,7 @@ Component built to demonstrate how unnecessary complex HTML structures are to cr
         </li>
         <li>
             <p>
-                <b>Salbatore Munuera</b>
+                <b>Salbatore</b>
                 <span>Estoy estresado</span>
                 <em>16:23</em>
             </p>

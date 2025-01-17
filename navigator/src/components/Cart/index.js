@@ -6,10 +6,10 @@ class Module extends Component {
         this.state={
             item:[
                 {status:'read',"nick":"Elon Musk","message":"¿Cómo estas Salbatore?","date":"11:37"},
-                {me:true,status:'read',"nick":"Salbatore Munuera","message":"Estoy estresado, intento dejar de fumar, pero soy incapaz","date":"16:23"},
+                {me:true,status:'read',"nick":"Salbatore","message":"Estoy estresado, intento dejar de fumar, pero soy incapaz","date":"16:23"},
                 {status:'read',"nick":"Elon Musk","message":"Hola","date":"16:24"},
                 {status:'read',"nick":"Elon Musk","message":"Hola","date":"20:44"},
-                {me:true,status:'read',"nick":"Salbatore Munuera","message":"Elon, dejame en paz","date":"23:00"},
+                {me:true,status:'read',"nick":"Salbatore","message":"Elon, dejame en paz","date":"23:00"},
 
             ]
         }

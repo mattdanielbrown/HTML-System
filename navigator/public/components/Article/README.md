@@ -1,4 +1,5 @@
 ### [Article](components/Article)
+
 #### HTML + CSS
 
 This component has nothing special, it is simply a construction made with semantic HTML and responsive CSS.
@@ -19,7 +20,7 @@ This component has nothing special, it is simply a construction made with semant
     </ol>
     <strong>
         <span></span>
-        <i>Salbatore Munuera</i>
+        <i>Salbatore</i>
         <em>@salbatore</em>
     </strong>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>

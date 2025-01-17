@@ -5,7 +5,7 @@ class Module extends Component {
         super(props);
         this.state={
             item:[
-                {"date":"1 months","username":"Consectetur adipis cing","name":"Salbatore Munuera",},
+                {"date":"1 months","username":"Consectetur adipis cing","name":"Salbatore",},
                 {"date":"2 months","username":"Sed do eiusmod tempor","name":"Miguel de Cervantes"},
                 {"date":"3 months","username":"Ut enim ad minim veniam","name":"Pablo Neruda"},
                 {"date":"4 months","username":"Aliquip ex ea commodo","name":"J. D. Salinger"},

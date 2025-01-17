@@ -1,4 +1,5 @@
 ### [Profile](components/Profile)
+
 #### HTML + CSS
 
 Standard header of a social profile. It has responsive capabilities and makes use of semantic HTML.
@@ -7,7 +8,7 @@ Standard header of a social profile. It has responsive capabilities and makes us
 <div class="Profile">
     <em></em>
     <span></span>
-    <strong>Salbatore Munuera</strong>
+    <strong>Salbatore</strong>
     <i>@salbatore</i>
     <p>I work in Alicunde Systems and I love programming.</p>
     <ol>

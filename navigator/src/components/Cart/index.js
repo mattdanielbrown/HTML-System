@@ -46,7 +46,7 @@ class Module extends Component {
 
         return (
             <div className="Cart">
-                {(this.props.dates)?<strong>23 July 2020</strong>:false}
+                {(this.props.dates)?<strong>23 July</strong>:false}
                 {this.renderItems(this.state.item)}
             </div>
         );

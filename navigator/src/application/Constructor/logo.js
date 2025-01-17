@@ -46,8 +46,8 @@ class Module extends Component {
                 <div className={(this.state.filter==='normal')?'active':''} onClick={()=>{this.setFilter('normal');}}>NORMAL</div>
                 </div>
                 <p>Do you want to add an amazing component? ... create an issue in the github repository.</p>
-                <p>by <b>Salbatore</b> in 2020 in Madrid, Spain.<br/><br/>License: none (public domain)</p>
-                <p style={{color:'#000'}}>We translate the design into HTML in a simplified way. This is a beta system built in June 2020.</p>
+                <p>by <b>Salbatore</b> in Madrid, Spain.<br/><br/>License: none (public domain)</p>
+                <p style={{color:'#000'}}>We translate the design into HTML in a simplified way.</p>
                
             </React.Fragment>
         );

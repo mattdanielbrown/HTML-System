@@ -14,7 +14,7 @@
     "jszip": "^3.4.0",
     "react": "^16.13.1",
     "react-ace": "^9.0.0",
-    "react-dom": "^16.13.1",
+    "react-dom": "^19.1.1",
     "react-highlight": "^0.12.0",
     "react-iframe-resizer-super": "^0.2.2",
     "react-markdown": "^4.3.1",
